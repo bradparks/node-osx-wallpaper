@@ -1,6 +1,6 @@
 {
   "name": "osx-wallpaper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get or set the desktop wallpaper on OS X",
   "license": "MIT",
   "repository": "sindresorhus/node-osx-wallpaper",
